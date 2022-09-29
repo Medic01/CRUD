@@ -4,10 +4,10 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Laravel 9 CRUD (Create, Read, Update and Delete) with Image Upload</h2>
+                <h2>Student services at SUM</h2>
             </div>
             <div class="pull-right" style="margin-bottom:10px;">
-            <a class="btn btn-success" href="{{ url('create') }}"> Create New Product</a>
+            <a class="btn btn-success" href="{{ url('create') }}"> Add new service</a>
             </div>
         </div>
     </div>
